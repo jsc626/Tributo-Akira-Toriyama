@@ -1,0 +1,81 @@
+body{
+    background-color: bisque;
+}
+.container{
+    position: fixed;
+    top:0%;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+   background-color: lightsalmon;
+   border-radius: 5px;
+}
+
+.primeira-imagem{
+    text-align: center;
+}
+.Biografia{
+    font-family: Verdana ;
+    font-size: 18px;
+    margin: 30px;
+}
+
+.destaque{
+    color:blue;
+}
+h2{
+    text-align: center;
+    background-color: lightsalmon;
+    padding: 20px;
+    border-radius: 20PX;
+}
+
+.Citações{
+    background-color:lightsalmon;
+    font-size: 23px;
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+    margin:20px;
+    padding: 40px;
+}
+
+.Akira{
+    position: relative;
+    left: 130px;
+}
+
+.Curiosidades{
+    font-size: 18px;
+   margin: 10px;
+   font-family: verdana;
+}
+
+ol li{
+    padding: 10px;
+}
+
+.imagem-Adicional{
+    text-align: center; 
+}
+
+img{
+    border-radius: 5px;
+    height: 600px;
+    width: 600px;
+}
+
+button{
+    position: relative;
+    left: 1700px;
+    color:black;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: bisque;
+}
+
+a{
+    font-family: verdana;
+    color:black;
+    font-size: 14px;
+}
